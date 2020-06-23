@@ -27,7 +27,8 @@
             Enter new value:
             <input type="text" name="name" value="" />
             <br></br>
-            <input type="submit" value="OK" />
+            <input type="submit" value="OK" class="sub"/>
         </form>
+        <p><a href="index.jsp">Back</a></p>
     </body>
 </html>

@@ -11,5 +11,7 @@ and open the template in the editor.
 body {
     font-family: Calibri;
     color: #999;
+    text-shadow: 1px 1px #000;
+    background-color: #3370cc;
     width: 700px;
 }

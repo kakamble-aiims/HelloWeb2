@@ -11,6 +11,8 @@ and open the template in the editor.
 body {
     font-family: Calibri;
     color: #999;
+    text-shadow: 1px 1px #000;
+    background-color: #3370cc;
     width: 700px;
 }
 
@@ -18,22 +20,36 @@ table {
     width: 1100px;
     border-collapse: collapse;
     color: #001;
+    text-shadow: 1px 1px #999;
     background-color: #3399ff;
 }
 
 .ins
 {
     font-size: 1.3em;
+    background-color: #000;
+    cursor: pointer;
 }
 
 .upd
 {
     font-size: 1.3em;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.srch
+{
+    font-size: 1.3em;
+    background-color: #000;
+    cursor: pointer;
 }
 
 .del
 {
     font-size: 1.3em;
+    background-color: #000;
+    cursor: pointer;
 }
 
 .subcl{

@@ -23,6 +23,7 @@
                 </form>
             </p>
         </br>
+        <p><a href="index.jsp">Back</a></p>
     </h:body>
 </html>
 

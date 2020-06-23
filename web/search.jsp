@@ -41,4 +41,5 @@
             </p>
         </br>
     </h:body>
+    <p><a href="index.jsp">Back</a></p>
 </html>
